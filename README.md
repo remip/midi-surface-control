@@ -2,6 +2,8 @@
 
 DIY Midi control surface for Analog Lab V
 
+![photo](doc/IMG_20240602_112036.jpg)
+
 ## Hardware
 
 - Teensy 3.2
